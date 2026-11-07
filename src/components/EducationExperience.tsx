@@ -84,7 +84,7 @@ const EducationExperience = () => {
       glow: "shadow-blue-500/20",
     },
     {
-      year: "SEP 2024 - AUG 2025",
+      year: "JUL 2024 - AUG 2025",
       title: "Junior Web Developer",
       detail: "PITC (Power Information Technology Company)",
       icon: Briefcase,
